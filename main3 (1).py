@@ -12,7 +12,7 @@ import os
 
 # ================== НАСТРОЙКИ ==================
 BOT_TOKEN = "8643432091:8643432091:AAEpSDlcwZ4lzRqahMQU16TVHOT1OncU1mA"
-ADMIN_IDS = [8643432091:AAG3iNCXU_8PtSXCaKzp0fF2xZfwpONYd4M]
+ADMIN_IDS = "8643432091:AAG3iNCXU_8PtSXCaKzp0fF2xZfwpONYd4M"
 REFERRAL_BONUS = 5  # Бонус за реферала
 MIN_WITHDRAW = 25  # Минимальная сумма вывода
 CHECK_INTERVAL = 3600  # Проверка подписок каждые 3600 секунд (1 час)
