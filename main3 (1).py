@@ -11,8 +11,8 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeybo
 import os
 
 # ================== НАСТРОЙКИ ==================
-BOT_TOKEN = "8643432091:AAEpSDlcwZ4lzRqahMQU16TVHOT1OncU1mA"
-ADMIN_IDS = "8643432091:AAG3iNCXU_8PtSXCaKzp0fF2xZfwpONYd4M"
+BOT_TOKEN = "8649368544:AAGCWWO6P04pwN9Qlfb3RPKeTcaTM-3Heeo"
+ADMIN_IDS = "8649368544:AAHwVgfwejPkfkzO9Z0KNcljGNyaL3Bk6Dc"
 REFERRAL_BONUS = 5  # Бонус за реферала
 MIN_WITHDRAW = 25  # Минимальная сумма вывода
 CHECK_INTERVAL = 3600  # Проверка подписок каждые 3600 секунд (1 час)
